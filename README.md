@@ -48,5 +48,7 @@
 
 ###
 
-<h2 align="left">Contributions :</h2>
+<h2 align="left">Hi 👋! My name is Hani ladjamba and I'm a Web and Mobile developer, from University of Klabat</h2>
+
+###
 ![snake svg](https://github.com/haniladjamba/haniladjamba/blob/output/snake.svg)
