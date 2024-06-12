@@ -40,7 +40,7 @@ Here are some of the projects I've worked on:
 - **[Project Name](link to project)**: Brief description of the project.
 
 ## 🔗 Connect with Me
-Feel free to reach out to me at [your email address] for any collaboration or project inquiries.
+Feel free to reach out to me for any collaboration or project inquiries.
 ###
 
 <div align="left">
