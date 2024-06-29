@@ -32,8 +32,12 @@ I'm a passionate web and mobile developer with a focus on front-end and graphic 
 Here are some of the projects I've worked on:
 
 ### 🌐 Web Projects
-- **[Project Name](link to project)**: Brief description of the project.
-- **[Project Name](link to project)**: Brief description of the project.
+
+#### Project name : T-rent Motorbike rent
+
+![Alt text](https://github.com/haniladjamba/haniladjamba/blob/main/assets/images/portofolio-web-bike_rent.png?raw=true)
+- A sleek and user-friendly motorbike rental website designed for tourists looking to explore scenic routes. Featuring a nature-inspired color palette, the site includes essential pages like Home, Bike Listings, Booking, About Us, and Contact. The design emphasizes simplicity and ease of navigation, providing detailed bike information, a seamless booking process, and engaging customer testimonials.
+- <a href="https://www.figma.com/design/ehzkXNmMYnCAEVjtAksEKo/Motorbike-rent---T-Rent?node-id=0-1&t=2hLlr946rqRU08sP-1" target="_blank">Click here to view design file</a>
 
 ### 📱 Mobile Projects
 - **[Project Name](link to project)**: Brief description of the project.
