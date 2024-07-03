@@ -35,14 +35,22 @@ Here are some of the projects I've worked on:
 
 #### Project name : T-rent Motorbike rent
 
-![Alt text](https://github.com/haniladjamba/haniladjamba/blob/main/assets/images/portofolio-web-bike_rent.png?raw=true)
+![T Rent](https://github.com/haniladjamba/haniladjamba/blob/main/assets/images/portofolio-web-bike_rent.png?raw=true)
 - A sleek and user-friendly motorbike rental website designed for tourists looking to explore scenic routes. Featuring a nature-inspired color palette, the site includes essential pages like Home, Bike Listings, Booking, About Us, and Contact. The design emphasizes simplicity and ease of navigation, providing detailed bike information, a seamless booking process, and engaging customer testimonials.
 - <a href="https://www.figma.com/design/ehzkXNmMYnCAEVjtAksEKo/Motorbike-rent---T-Rent?node-id=0-1&t=2hLlr946rqRU08sP-1" target="_blank">Click here to view design file</a>
+
+### 🎨 Design Projects
+
+#### Project name : Liquid blobs
+
+![Liquid blobs](https://github.com/haniladjamba/haniladjamba/blob/main/assets/gif/blobs.gif?raw=true)
+- A visually captivating dynamic liquid blobs animation that demonstrates smooth and fluid motion, simulating the behavior of liquid droplets merging and separating in a realistic manner.
+- <a href="https://www.figma.com/design/H4ItKkyrJOzFbEyTJ5ZukL/Untitled?node-id=0-1&t=30dbUWvzRkPQTMmM-1">Click here to view design file</a>
 
 ### 📱 Mobile Projects
 
 #### Project name : Huetiful
-![Alt text](https://github.com/haniladjamba/haniladjamba/blob/main/assets/gif/Glow,.gif?raw=true)
+![Huetiful](https://github.com/haniladjamba/haniladjamba/blob/main/assets/gif/Glow,.gif?raw=true)
 - A mobile app designed to offer personalized outfit color recommendations based on the user's skin tone. The app analyzes the user's skin tone and using a Machine Learning Model, it generates a custom color palette, helping users enhance their style with confidence. This project showcases innovative use of image processing and color theory to create a unique and user-friendly fashion assistant.
 - <a href="https://www.figma.com/design/545mtrjXVYKvJzwllWNokf/C241-PS196-Capstone-Project-HueTiful?node-id=31-2&t=30dbUWvzRkPQTMmM-1" target="_blank">Click here to view design file</a>
 
