@@ -40,8 +40,11 @@ Here are some of the projects I've worked on:
 - <a href="https://www.figma.com/design/ehzkXNmMYnCAEVjtAksEKo/Motorbike-rent---T-Rent?node-id=0-1&t=2hLlr946rqRU08sP-1" target="_blank">Click here to view design file</a>
 
 ### 📱 Mobile Projects
-- **[Project Name](link to project)**: Brief description of the project.
-- **[Project Name](link to project)**: Brief description of the project.
+
+#### Project name : Huetiful
+![Alt text](https://github.com/haniladjamba/haniladjamba/blob/main/assets/gif/Glow,.gif?raw=true)
+- A mobile app designed to offer personalized outfit color recommendations based on the user's skin tone. The app analyzes the user's skin tone and using a Machine Learning Model, it generates a custom color palette, helping users enhance their style with confidence. This project showcases innovative use of image processing and color theory to create a unique and user-friendly fashion assistant.
+- <a href="https://www.figma.com/design/545mtrjXVYKvJzwllWNokf/C241-PS196-Capstone-Project-HueTiful?node-id=31-2&t=30dbUWvzRkPQTMmM-1" target="_blank">Click here to view design file</a>
 
 ## 🔗 Connect with Me
 Feel free to reach out to me for any collaboration or project inquiries.
