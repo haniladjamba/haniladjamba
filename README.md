@@ -10,7 +10,9 @@ I'm a passionate web and mobile developer with a focus on front-end and graphic 
 
 <img align="left" height="150" src="https://i.giphy.com/eNAsjO55tPbgaor7ma.webp"  />
 <img align="left" height="150" src="https://miro.medium.com/max/1260/1*-tOldEbfjijxn9VqZeULqg.gif"  />
+<img align="left" height="150" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"  />
 <img align="left" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGU5czE4eXo1b3Y3NHRiNmljNXhkdGl3dnFhNTZ3YmpkZ2w4dTBpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsEaZldNC8A1PJ3mwp/giphy.gif"  />
+<img align="left" height="150" src="https://trapfether.gallerycdn.vsassets.io/extensions/trapfether/tailwind-raw-reorder/3.2.0/1706903284985/Microsoft.VisualStudio.Services.Icons.Default"  />
 
 <br clear="left" />
 
