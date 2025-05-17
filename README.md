@@ -5,27 +5,29 @@ I'm a passionate web and mobile developer with a focus on front-end and graphic 
 
 ## 🛠 Skills & Tools
 
-### Front-End Development
+### Game Development
 - **Frameworks and Languages:**
 
-<img align="left" height="150" src="https://i.giphy.com/eNAsjO55tPbgaor7ma.webp"  />
-<img align="left" height="150" src="https://miro.medium.com/max/1260/1*-tOldEbfjijxn9VqZeULqg.gif"  />
-<img align="left" height="150" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"  />
-<img align="left" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGU5czE4eXo1b3Y3NHRiNmljNXhkdGl3dnFhNTZ3YmpkZ2w4dTBpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsEaZldNC8A1PJ3mwp/giphy.gif"  />
-<img align="left" height="150" src="https://trapfether.gallerycdn.vsassets.io/extensions/trapfether/tailwind-raw-reorder/3.2.0/1706903284985/Microsoft.VisualStudio.Services.Icons.Default"  />
-
+<img align="left" height="150" src="https://img.itch.zone/aW1nLzcyMTQyMzcuZ2lm/original/Rh3xf7.gif"  />
+<img align="left" height="150" src="https://camo.githubusercontent.com/54cacc87dfb9ab3c77cec229d4781703f38cc5ff905df27ca3686e0a9a90a4d4/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f36323263613035323037313736312e353930333465373461626233362e676966"  />
+<img align="left" height="150" src="https://assetstorev1-prd-cdn.unity3d.com/key-image/133819e6-8bb4-44bc-962a-10222d630b03.jpg"  />
+<img align="left" height="150" src="https://happynerdstudio.com/wp-content/uploads/2022/05/FusionLogo-1024x487.png"  />
+<img align="left" height="150" src="https://assetstorev1-prd-cdn.unity3d.com/key-image/e9756e15-3e41-4000-b742-d9dd6085f9ad.png"  />
 <br clear="left" />
 
 <br />
 
 - **Design:**
+<img align="left" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJnOWp0ZjlkdHJodDM0YXA5dzMyYmFiMGY2ZGhmdzIydzN3dDZxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZLLZcHDe4RpWEl9INg/giphy.gif"  />
+<img align="left" height="150" src="https://opengameart.org/sites/default/files/Blender%20Icon%20800x600.gif"  />
 <img align="left" height="150" src="https://cdn.dribbble.com/users/2653319/screenshots/6813714/figma_logo_animation.gif"  />
 
 <br clear="left" />
 <br />
 
-### Mobile Development
+### Mobile & Web Development
 <img align="left" height="150" src="https://miro.medium.com/v2/resize:fit:730/0*p8mhVdHuUL03Tdzz."  />
+<img align="left" height="150" src="https://i.giphy.com/eNAsjO55tPbgaor7ma.webp"  />
 
 <br clear="left" />
 <br />
@@ -33,22 +35,25 @@ I'm a passionate web and mobile developer with a focus on front-end and graphic 
 ## 🌟 Projects
 Here are some of the projects I've worked on:
 
-### 🌐 Web Projects
+### 🎮 Game Projects
 
-#### Project name : T-rent Motorbike rent
+#### Project name : Mobile Third-Person Military Shooter
 
-![T Rent](https://github.com/haniladjamba/haniladjamba/blob/main/assets/images/portofolio-web-bike_rent.png?raw=true)
-- A sleek and user-friendly motorbike rental website designed for tourists looking to explore scenic routes. Featuring a nature-inspired color palette, the site includes essential pages like Home, Bike Listings, Booking, About Us, and Contact. The design emphasizes simplicity and ease of navigation, providing detailed bike information, a seamless booking process, and engaging customer testimonials.
-- <a href="https://www.figma.com/design/ehzkXNmMYnCAEVjtAksEKo/Motorbike-rent---T-Rent?node-id=0-1&t=2hLlr946rqRU08sP-1" target="_blank">Click here to view design file</a>
-- <a href="https://github.com/haniladjamba/haniladjamba/tree/main/projects/web" target="_blank">Click here to view my other web projects</a>
+![T Rent](https://github.com/haniladjamba/haniladjamba/blob/main/assets/images/game/new%20malvinas%20camo%20(1).png)
+- A mobile third-person shooter created to showcase authentic Indonesian military camouflage: New Malvinas, Urban Digital, and Desert Digital. The game features three distinct combat environments: Urban, Desert, and Forest. where each offering unique enemy behavior and tactical challenges.
+- <a href="https://youtu.be/uVrHh8ShY5U?si=w_ctUadcTidsHy-M" target="_blank">Click here to view demo</a>
 
-### 🎨 Design Projects
+#### Project name : First-Person 3D Multiplayer Climbing Game
 
-#### Project name : Liquid blobs
+![Liquid blobs](https://github.com/haniladjamba/haniladjamba/blob/main/assets/images/game/fusion.png)
+- A competitive 3D multiplayer first-person climbing game where players race to reach the top platform (blue platform) as quickly as possible. Built using Photon Fusion 2 SDK, the game supports up to 12 players per room and offers a range of mobility and offensive skills that enhance both strategy and chaos.
+- <a href="https://youtu.be/Natqx4oKx28?si=CthI9ejBapbxQFF9">Click here to view demo</a>
 
-![Liquid blobs](https://github.com/haniladjamba/haniladjamba/blob/main/assets/gif/blobs.gif?raw=true)
-- A visually captivating dynamic liquid blobs animation that demonstrates smooth and fluid motion, simulating the behavior of liquid droplets merging and separating in a realistic manner.
-- <a href="https://www.figma.com/design/H4ItKkyrJOzFbEyTJ5ZukL/Untitled?node-id=0-1&t=30dbUWvzRkPQTMmM-1">Click here to view design file</a>
+#### Project name : Platform Master
+
+![T Rent](https://github.com/haniladjamba/haniladjamba/blob/main/assets/images/game/plat.png)
+- Platform Master is a 2D platformer developed as part of the Unity Learn Platformer Microgame course, which I further customized to enhance gameplay challenge and visual appeal. In this game, players run, jump, and stomp enemies (red slimes) while navigating platform obstacles to reach the finish line and collect diamonds for points. Touching an enemy or falling off results in defeat.
+- <a href="https://youtu.be/4Fq9MI_9I08?si=h5-5j8aV4NJYj8SP" target="_blank">Click here to view demo</a>
 
 ### 📱 Mobile Projects
 
@@ -71,13 +76,9 @@ Feel free to reach out to me for any collaboration or project inquiries.
   <a href="https://www.linkedin.com/in/hani-ladjamba-42406730a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-</div>
-
-###
-
-## 🏆 Top Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haniladjamba&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+  <a href="https://www.youtube.com/@hanijastingiovanniladjamba3121" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
 </div>
 
 ###
