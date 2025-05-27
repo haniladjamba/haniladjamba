@@ -1,7 +1,7 @@
 # Hello, I'm Hani ladjamba 👋
 
 ## 🚀 About Me
-I'm a passionate web and mobile developer with a focus on front-end and graphic design. I love creating beautiful, functional, and user-friendly interfaces.
+I'm a passionate Game Developer and Mobile Developer with a focus on game design and programming as well as graphic design.
 
 ## 🛠 Skills & Tools
 
