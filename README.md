@@ -11,7 +11,7 @@ I'm a passionate Game Developer and Mobile Developer with a focus on game design
 <img align="left" height="150" src="https://img.itch.zone/aW1nLzcyMTQyMzcuZ2lm/original/Rh3xf7.gif"  />
 <img align="left" height="150" src="https://camo.githubusercontent.com/54cacc87dfb9ab3c77cec229d4781703f38cc5ff905df27ca3686e0a9a90a4d4/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f36323263613035323037313736312e353930333465373461626233362e676966"  />
 <img align="left" height="150" src="https://assetstorev1-prd-cdn.unity3d.com/key-image/133819e6-8bb4-44bc-962a-10222d630b03.jpg"  />
-<img align="left" height="150" src="https://happynerdstudio.com/wp-content/uploads/2022/05/FusionLogo-1024x487.png"  />
+<img align="left" height="150" src="https://assetstorev1-prd-cdn.unity3d.com/key-image/2f50c17f-0644-4dbc-bf32-ba00e3ada76d.jpg"  />
 <img align="left" height="150" src="https://assetstorev1-prd-cdn.unity3d.com/key-image/e9756e15-3e41-4000-b742-d9dd6085f9ad.png"  />
 <br clear="left" />
 
